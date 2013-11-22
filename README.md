@@ -1,4 +1,0 @@
-Car
-===
-
-Project practic
